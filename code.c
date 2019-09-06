@@ -7,3 +7,4 @@ int main()
   c=a+b;
   scanf("%d",&c);
 }
+//Krisified..!!.
